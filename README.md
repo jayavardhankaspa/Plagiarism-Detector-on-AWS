@@ -4,7 +4,7 @@ This repository contains code and associated files for deploying a plagiarism de
 
 ## Project Overview
 
-In this project deals with building a plagiarism detector that examines a text file and performs binary classification; labeling that file as either plagiarized or not, depending on how similar that text file is to a provided source text using AWS SageMaker.
+This project deals with building a plagiarism detector that examines a text file and performs binary classification; labeling that file as either plagiarized or not, depending on how similar that text file is to a provided source text using AWS SageMaker.
 
 * **Environment**: AWS
 * **Model**: PyTorch Binary Classifier
